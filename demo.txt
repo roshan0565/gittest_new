@@ -1,2 +1,1 @@
 This is my git file.
-This is 2nd line for new commit chnages.
