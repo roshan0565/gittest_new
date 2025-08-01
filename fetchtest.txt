@@ -1,2 +1,3 @@
 This is fetch test
 Doing changes to check the git fetch command
+3rd line to verify, how fetch works.
